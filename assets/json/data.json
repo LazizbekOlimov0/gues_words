@@ -1,0 +1,152 @@
+[
+  {
+    "left": {
+      "imageUrl": "assets/images/images_card/level1.0.png",
+      "color": 5149110,
+      "length": 5,
+      "fill": 3,
+      "name": "BRAIN"
+    },
+    "right": {
+      "imageUrl": "assets/images/images_card/level1.1.png",
+      "color": 12169187 ,
+      "length": 3,
+      "fill": 3,
+      "name": "BOW"
+    },
+    "description": "a vessel or a container ",
+    "word": "BOWL",
+    "letters": ["O", "E" ,"W", "B",  "L"],
+    "imageUrl": "assets/images/images_card/level1.2.png",
+    "leftLetter": 4,
+    "rightLetter": 3,
+    "middleLetter": 0,
+    "level": 1,
+    "coin": 100
+  },
+  {
+    "left": {
+      "imageUrl": "assets/images/images_card/level2.0.png",
+      "color": 13593194,
+      "length": 3,
+      "fill": 3,
+      "name": "PAN"
+    },
+    "right": {
+      "imageUrl": "assets/images/images_card/level2.1.png",
+      "color":22714166 ,
+      "length": 3,
+      "fill": 3,
+      "name": "ANT"
+    },
+    "description": "short & quick breaths ",
+    "word": "PANT",
+    "letters": [ "T",  "N", "A",  "P","K"],
+    "imageUrl": "assets/images/images_card/level2.2.png",
+    "leftLetter": 1,
+    "rightLetter": 1,
+    "middleLetter": 2,
+    "level": 2,
+    "coin": 100
+  },
+  {
+    "left": {
+      "imageUrl": "assets/images/images_card/level3.0.png",
+      "color": 4322714,
+      "length": 3,
+      "fill": 3,
+      "name": "CAR"
+    },
+    "right": {
+      "imageUrl": "assets/images/images_card/level3.1.png",
+      "color": 11592155,
+      "length": 4,
+      "fill": 4,
+      "name": "RING"
+    },
+    "description": "displaying kindness and concern  ",
+    "word": "CARRING",
+    "letters": [ "A",  "G", "N",  "R","I","C"],
+    "imageUrl": "assets/images/images_card/level3.2.png",
+    "leftLetter": 2,
+    "rightLetter": 3,
+    "middleLetter": 1,
+    "level": 3,
+    "coin": 100
+  },
+  {
+    "left": {
+      "imageUrl": "assets/images/images_card/level4.0.png",
+      "color": 2271440,
+      "length": 3,
+      "fill": 2,
+      "name": "BEE"
+    },
+    "right": {
+      "imageUrl": "assets/images/images_card/level4.1.png",
+      "color": 15014227,
+      "length": 3,
+      "fill": 3,
+      "name": "EAR"
+    },
+    "description": "BEE AND EAR",
+    "word": "BEAR",
+    "letters": [ "A",  "B", "E",  "U","X","R"],
+    "imageUrl": "assets/images/images_card/level4.2.png",
+    "leftLetter": 1,
+    "rightLetter": 1,
+    "middleLetter": 2,
+    "level": 3,
+    "coin": 100
+  },
+  {
+    "left": {
+      "imageUrl": "assets/images/images_card/level5.0.png",
+      "color": 14193188,
+      "length": 3,
+      "fill": 3,
+      "name": "TEA"
+    },
+    "right": {
+      "imageUrl": "assets/images/images_card/level5.1.png",
+      "color": 391086,
+      "length": 3,
+      "fill": 3,
+      "name": "POT"
+    },
+    "description": "container with a spout",
+    "word": "TEAPOT",
+    "letters": [ "E",  "A", "O",  "T","P","R"],
+    "imageUrl": "assets/images/images_card/level5.2.png",
+    "leftLetter": 1,
+    "rightLetter": 1,
+    "middleLetter": 2,
+    "level": 3,
+    "coin": 100
+  },
+  {
+    "left": {
+      "imageUrl": "assets/images/images_card/level6.0.png",
+      "color": 12195148,
+      "length": 3,
+      "fill": 3,
+      "name": "PIN"
+    },
+    "right": {
+      "imageUrl": "assets/images/images_card/level6.1.png",
+      "color": 23925012,
+      "length": 3,
+      "fill": 3,
+      "name": "INK"
+    },
+    "description": "a color",
+    "word": "PINK",
+    "letters": [ "L",  "N", "K",  "Y","O","Q","I","P"],
+    "imageUrl": "assets/images/images_card/level6.2.png",
+    "leftLetter": 1,
+    "rightLetter": 1,
+    "middleLetter": 2,
+    "level": 3,
+    "coin": 100
+  }
+]
